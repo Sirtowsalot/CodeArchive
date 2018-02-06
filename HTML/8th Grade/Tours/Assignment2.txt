@@ -1,0 +1,62 @@
+﻿<!doctypehtml>
+<html>
+<head>
+<style>
+ 
+body {
+    -webkit-animation: colorchange 60s infinite; 
+    animation: colorchange 65s infinite;
+}
+ 
+ 
+@-webkit-keyframes colorchange {
+ 
+     0%  {background: #ff69b4;}
+    25%  {background: #00e5ee;}
+    50%  {background: #a29e14;}
+    75%  {background: #32cd32;}
+    100% {background: #ff89b4;}
+}
+ 
+ 
+@keyframes colorchange {
+     0%  {background: #ff69b4;}
+    25%  {background: #00e5ee;}
+    50%  {background: #a29e14;}
+    75%  {background: #32cd32;}
+    100% {background: #ff89b4;}
+}   
+ 
+</style>
+<title>Tours</title>
+</head>
+<center><h1>Natural Wonders of the United States</h1></center>
+<center><h5>The United States is full of wonders.</center></h3>
+<center><h2>Grand Canyon</h2></center>
+	<center>
+	<img src="https://www.nationalparks.org/sites/default/files/iStock_000042545368_Full.jpg" alt="The Grand Canyon" style="width:256px;height2506px:">
+	<img src="https://a30de2edae0c4b0bc6ba-a8477a60b1c5d9e290ed2e4c0d53743c.ssl.cf1.rackcdn.com/14/7/large.jpg" alt="The South Rim" style="width:256px;height256px:">
+	<img src="https://www.advantagegrandcanyon.com/wp-content/uploads/2015/01/North-Rim-Grand-canyon.png" alt="The North Rim" style="width:300px;height300px:">
+	</center>
+
+<center><h4>
+	Unique combinations of geologic color and erosional forms decorate a canyon that is 277 river miles (446km) long, up to 18 miles (29km) wide, and a mile (1.6km) deep.
+<br>	
+	Grand Canyon overwhelms our senses through its immense size.
+</center></h4>
+<center><a target=_blank href="https://www.nps.gov/grca/index.htm" style="color: #0000ff">Click here to go to their website</a>
+<hr style="border: 1px solid #000000" />​
+<center><h2>Bryce Canyon</center></h2>
+	<center>
+	<img src="https://www.national-park.com/wp-content/uploads/2016/04/Welcome-to-Bryce-Canyon-National-Park.jpg" style="width:256px;height256px:">
+	<img src="https://media.deseretdigital.com/file/bd73787645?crop=top:0|left:0|width:1260|height:670|gravity:Center&quality=55&interlace=none&resize=width:1260&order=resize,crop&c=14&a=e0f131f0" alt="The South Rim" style="width:318px;height318px:">
+	<img src="https://a.travel-assets.com/findyours-php/viewfinder/images/res20/171000/171418-Bryce-Canyon-National-Park.jpg" alt="The North Rim" style="width:300px;height300px:">
+	</center>
+<center><h4>
+	There is no place like Bryce Canyon. Hoodoos (odd-shaped pillars of rock left standing from the forces of erosion) can be found on every continent, but here is the largest collection of hoodoos in the world!
+<br>
+ 	Descriptions fail. Photographs do not do it justice. Bring your sense of wonder and imagination when visiting Bryce Canyon National Park.
+</center></h4>
+<center><a target=_blank href="https://www.nps.gov/brca/index.htm" style="color: #0000ff">Click here to go to their website</a>
+<hr style="border: 1px solid #000000" />​
+<center><h2>Zion National Park</center></h2>
